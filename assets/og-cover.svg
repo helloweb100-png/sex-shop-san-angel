@@ -13,8 +13,8 @@
     <circle cx="600" cy="230" r="92" fill="#FF2E5B" opacity=".92" style="mix-blend-mode:screen"/>
     <circle cx="700" cy="230" r="92" fill="#F01E9F" opacity=".92" style="mix-blend-mode:screen"/>
   </g>
-  <text x="600" y="430" text-anchor="middle" font-family="Unbounded, system-ui, sans-serif" font-weight="800" font-size="70" letter-spacing="-2" fill="#F7ECFB">Puntos <tspan font-family="'Instrument Serif', Georgia, serif" font-style="italic" font-weight="400" font-size="86" fill="#F01E9F">Eróticos</tspan></text>
-  <text x="600" y="486" text-anchor="middle" font-family="Manrope, system-ui, sans-serif" font-weight="800" font-size="22" letter-spacing="9" fill="#F7ECFB" opacity=".8">SEX SHOP · SAN ÁNGEL, CDMX</text>
+  <text x="600" y="466" text-anchor="middle" font-family="Unbounded, system-ui, sans-serif" font-weight="800" font-size="70" letter-spacing="-2" fill="#F7ECFB">Puntos <tspan font-family="'Instrument Serif', Georgia, serif" font-style="italic" font-weight="400" font-size="86" fill="#F01E9F">Eróticos</tspan></text>
+  <text x="600" y="376" text-anchor="middle" font-family="Manrope, system-ui, sans-serif" font-weight="800" font-size="22" letter-spacing="9" fill="#F7ECFB" opacity=".8">SEX SHOP</text>
   <rect x="380" y="530" width="440" height="4" rx="2" fill="url(#e)"/>
   <text x="600" y="584" text-anchor="middle" font-family="Manrope, system-ui, sans-serif" font-weight="600" font-size="22" fill="#F7ECFB" opacity=".7">Solo mayores de 18 años</text>
 </svg>
