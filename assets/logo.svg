@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" width="300" height="64" role="img" aria-labelledby="t">
+  <title id="t">Puntos Eróticos Sex Shop</title>
+  <rect width="300" height="64" rx="0" fill="#12071E"/>
+  <g transform="translate(14 14)" style="isolation:isolate">
+    <circle cx="14" cy="14" r="14" fill="#19C6F5" opacity=".92" style="mix-blend-mode:screen"/>
+    <circle cx="31" cy="14" r="14" fill="#FF2E5B" opacity=".92" style="mix-blend-mode:screen"/>
+    <circle cx="48" cy="14" r="14" fill="#F01E9F" opacity=".92" style="mix-blend-mode:screen"/>
+  </g>
+  <text x="84" y="32" font-family="Unbounded, system-ui, sans-serif" font-weight="800" font-size="20" letter-spacing="-.8" fill="#F7ECFB">Puntos</text>
+  <text x="168" y="32" font-family="'Instrument Serif', Georgia, serif" font-style="italic" font-size="26" fill="#F01E9F">Eróticos</text>
+  <text x="85" y="50" font-family="Manrope, system-ui, sans-serif" font-weight="800" font-size="8.5" letter-spacing="3.4" fill="#F7ECFB" opacity=".8">SEX SHOP</text>
+</svg>
